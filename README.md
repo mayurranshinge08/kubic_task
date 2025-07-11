@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+ ![Image Alt](https://github.com/mayurranshinge08/kubic_task/blob/11fbeeef3911bd2a987608bfa0ccedcb2639bace/page2.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
